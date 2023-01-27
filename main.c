@@ -5,7 +5,6 @@
 //  Created by Mingmanas Sivaraksa on 2/1/2564 BE.
 //
 
-
 #include <stdio.h>
 
 int main(int argc, char *argv[]) {
